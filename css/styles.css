@@ -1,5 +1,7 @@
 img {
-    width:150px;
+    max-width:30%;
+    /*para resize de img según pantalla*/
+    object-fit: cover;
 }
 div {
     background-color: rgb(232, 246, 253);
